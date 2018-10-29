@@ -1,0 +1,6 @@
+﻿  doação de sangue.cpp
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\doação de sangue\doação de sangue.cpp(24): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\doação de sangue\doação de sangue.cpp(24): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\doação de sangue\doação de sangue.cpp(24): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\doação de sangue\doação de sangue.cpp(24): note: esse argumento é usado como um tamanho do buffer
+  doação de sangue.vcxproj -> C:\Users\jclri\Desktop\Faculdade\Algoritmos de Programação II\doação de sangue\Debug\doação de sangue.exe
